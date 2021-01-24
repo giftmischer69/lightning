@@ -1,4 +1,6 @@
-# Light Speed
+# AutoFlower
+
+Fork of Light Speed
 
 An insanely fast and performance-based Jekyll theme. Some fun facts about the theme:
 
