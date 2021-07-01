@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               'Light Speed'
-url:                 https://lightspeed.netlify.com
-tagline:             'Jekyll theme with a perfect Lighthouse score'
+title:               'lightning'
+url:                 https://github.com/giftmischer69/lightning
+tagline:             'A lightning-fast Jekyll theme'
 baseurl:             ""
 
 # Assets
@@ -14,17 +14,13 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
-# Cloudinary
-#cloudinary:
-#  cloud_name: your cloudinary username
-
 # About/contact
 author:
-  name:              Bradley Taunt
-  url:               https://twitter.com/bradtaunt
-  email:             bradleytaunt@gmail.com
+  name:              giftmischer69 | Bradley Taunt
+  url:               https://github.com/giftmischer69
+  email:             giftmischer69@protonmail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/bradleytaunt/lightspeed
+  repo:              https://github.com/giftmischer69/lightning

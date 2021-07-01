@@ -2,14 +2,30 @@
 
 forked from [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed)
 
-An insanely fast and performance-based Jekyll theme.
+An opinionated, lightning fast and beautiful Jekyll theme.
 
-temp
+TODO: Screenshot
 
 -----
 
+## Usage
+
+````shell
+# install
+gem install jekyll bundler
+bundle install
+
+# run locally
+bundle exec jekyll serve
+````
+
 ## Author
 
+[giftmischer69](https://github.com/giftmischer69/lightning)
+
+<hr>
+
+Author of [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed):
 **Bradley Taunt**
 - <https://github.com/bradleytaunt>
 - <https://twitter.com/bradtaunt>
@@ -19,7 +35,4 @@ temp
 
 Open sourced under the [MIT license](LICENSE.md).
 
-This project is open source except for example articles found in `_posts`.
-=======
-TODO: Screenshot
->>>>>>> bad8d7e30bcfd483011936e0c37b72df7382cf1f
+This project is open source except for example-of-all-elements article found in `_posts`.
