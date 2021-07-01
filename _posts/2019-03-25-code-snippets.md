@@ -2,6 +2,7 @@
 layout: post
 title: Code Snippets
 description: Post about code snippets
+permalink: code-snippets
 ---
 
 You can use color-coded code-snippets with the normal Markdown syntax.

@@ -2,6 +2,7 @@
 layout: post
 title: Example of all elements
 description: Post showcasing all elements
+permalink: example-of-all-elements
 ---
 
 # h1 Heading
