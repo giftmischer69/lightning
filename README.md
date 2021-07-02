@@ -4,7 +4,8 @@ forked from [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed
 
 An opinionated, lightning fast and beautiful Jekyll theme.
 
-TODO: Screenshot
+Screenshot:
+![Screenshot](screenshot.jpg)
 
 -----
 
