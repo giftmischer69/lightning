@@ -4,8 +4,10 @@ forked from [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed
 
 An opinionated, lightning fast and beautiful Jekyll theme.
 
-Screenshot:
-![Screenshot](screenshot.jpg)
+screenshot:
+![screenshot](screenshot.jpg)
+
+live instance: [blog.genos.se](https://blog.genos.se)
 
 -----
 
