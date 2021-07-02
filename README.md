@@ -1,4 +1,4 @@
-# AutoFlower
+# lightning
 
 forked from [bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed)
 
